@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Semantic named colors -->
+    <!--     <color name="link">#ff1d6fa8</color> -->
+    <color name="content">#252525</color>
+
+    <color name="bg_row_pressed">#ffeeeeee</color>
+    <color name="history_detail_item_text_color">#ffb0a79e</color>
+    <color name="debug_magenta">#88ff00ff</color>
+    <color name="divider_light">#ff7f7770</color>
+    <color name="numpad_bg_color_4x">#34312e</color>
+    <color name="numpad_text_color_4x">#a9a49e</color>
+    <color name="actionbar_tabtext_inactive">#757575</color>
+    <color name="send_request_text">#8d8a84</color>
+    <color name="blue">#336699</color>
+    <color name="dark_blue">#003366</color>
+    <color name="grey">#393939</color>
+    <color name="half_grey">#565656</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="half_white">#80ffffff</color>
+    <color name="orange">#fa9e27</color>
+    <color name="mid_gray">#e4e4e4</color>
+    <color name="red">#ff0000</color>
+    <color name="plus_sign_green">#34a806</color>
+    <color name="text_grey">#9c9c9c</color>
+    <color name="text_dark_grey">#6d6d6d</color>
+    <color name="about_text_light_gray">#a6a6a6</color>
+    <color name="text_green">#1c7d14</color>
+    <color name="grid_focus">#e7e8e8</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- New 5.0 colors -->
+    <color name="c0079c1">#0079c1</color>
+    <color name="c515151">#515151</color>
+    <color name="slidebar">#a5d2ed</color>
+    <color name="slideIndicator">#55a0cc</color>
+    <color name="button_gray_pressed">#8b8b8b</color>
+    <color name="button_gold">#cc8e3f</color>
+    <color name="button_gray">#939393</color>
+    <color name="button_orange">#fa8132</color>
+    <color name="button_orange_pressed">#ff9855</color>
+    <color name="c918b83">#918b83</color>
+    <color name="cd2cdc2">#d2cdc2</color>
+    <color name="cbaced5">#baced5</color>
+    <color name="cb32317">#b32317</color>
+    <color name="cd9d2c5">#d9d2c5</color>
+    <color name="c0977bd">#0977bd</color>
+    <color name="ce3ded6">#e3ded6</color>
+    <color name="cdddddd">#dddddd</color>
+    <color name="c717074">#717074</color>
+    <color name="c252525">#252525</color>
+    <color name="cdbdbdb">#dbdbdb</color>
+    <color name="c80000000">#80000000</color>
+
+    <!-- New 5.4.3 colors -->
+    <color name="paypal_blue">#009CDE</color>
+
+    <!-- Menu colors -->
+    <color name="menu_drop_shadow">#7F717074</color>
+    <color name="menu_divider_585858">#585858</color>
+    <color name="menu_background_border_highlight_646065">#646065</color>
+    <color name="menubottombackground_474747">#474747</color>
+
+    <!-- New Menu - clean previous -->
+    <color name="menubutton_horz_divider">#646065</color>
+    <color name="menubutton_default_state">#3d3d3d</color>
+    <color name="menubutton_pressed_state">#303030</color>
+    <color name="menubutton_shop_default_state">#009CDE</color>
+    <color name="menubutton_shop_pressed_state">#00639c</color>
+    <color name="menubutton_alt_text">#a1a1a1</color>
+    <color name="menubutton_alt_default_state">#474747</color>
+    <color name="menubutton_alt_pressed_state">#383838</color>
+
+    <!-- Search -->
+    <color name="list_divider">#e5e5e5</color>
+    <color name="search_categories">#333333</color>
+    <color name="search_header_text">#ffffff</color>
+    <color name="search_header_dimmed_text">#4cffffff</color>
+    <color name="find_textcolor">#92c5e3</color>
+    <color name="near_textcolor">#333333</color>
+    <color name="near_hintcolor">#666666</color>
+    <color name="search_view_indicator">#3983af</color>
+    <color name="search_suggestion_selected_background">#ffffff</color>
+
+    <!-- Shop -->
+    <color name="shop_merchant_background">#F9F9F9</color>
+    <color name="shop_offer_background">@color/white</color>
+    <color name="shop_offer_shadow">#B6B6B2</color>
+    <color name="shop_offer_divider">#E4E4E4</color>
+    <color name="shop_offer_unsaved_default">#F8A132</color>
+    <color name="shop_offer_saved_inactive_default">#A5A5A5</color>
+    <color name="shop_offer_saved_active_default">#6BA528</color>
+    <color name="shop_offer_saving_default">#F8A132</color>
+    <color name="shop_offer_updating_default">#6BA528</color>
+    <color name="shop_offer_button_saving">#C78836</color>
+    <color name="shop_offer_description_text">#646464</color>
+    <color name="shop_offer_expiration_text">#BCBCBC</color>
+    <color name="offer_apply_button_saved_active">#D6EBB9</color>
+    <color name="offer_apply_button_saved_inactive">#D2D2D2</color>
+    <color name="wa_merchant_checkin_header_background_pressed">#40FFFFFF</color>
+    <color name="merchant_list_right_button_text">#ff0079c1</color>
+
+    <!-- global -->
+    <drawable name="shop_tab_color">#d7d7d7</drawable>
+    <drawable name="shop_tab_active_color">#55a0cc</drawable>
+    <color name="login_helper_text">#606060</color>
+    <color name="login_text">#333333</color>
+    <color name="shop_title_text">#ffffff</color>
+    <color name="shop_tab_text">#5e5e5e</color>
+    <color name="auth_default_background">#F2F2F2</color>
+
+
+    <color name="pl_bttn_blue_default">#0079c1</color>
+    <color name="pl_bttn_blue_hover">#0066a2</color>
+    <color name="pl_bttn_blue_tap">#0066a2</color>
+    <color name="pl_bttn_blue_disabled">#c4dceb</color>
+    <color name="pl_bttn_grey_default">#717074</color>
+    <color name="pl_bttn_grey_hover">#5a5a5d</color>
+    <color name="pl_bttn_grey_tap">#5a5a5d</color>
+    <color name="pl_bttn_grey_disabled">#dbdadb</color>
+
+
+    <color name="listView_item_idle">#3D3D3E</color>
+
+    <color name="listView_item_selected">#3D3D3E</color>
+    <color name="auth_text_hint">#999999</color>
+    <color name="auth_text_focused">#252525</color>
+    <color name="auth_text_red">#b32317</color>
+    <color name="auth_text_dark_grey">#717074</color>
+    <color name="auth_text_black">#252525</color>
+    <color name="auth_text_dark_blue">#6e7c8a</color>
+    <color name="pl_red">#ad3e46</color>
+
+    <!-- Settings Page Colors -->
+    <color name="settings_header_content">#ffff00</color> <!-- Yellow -->
+    <color name="settings_content">#ffffff</color> <!-- White -->
+    <color name="settings_divider_line">#808080</color> <!-- Gray / Grey -->
+    <color name="purple_vivo">#660099</color> <!-- Gray / Grey -->
+
+    <color name="line_page">#ffdddddd</color>
+
+    <color name="no_spec_white">#ffffffff</color>
+    <color name="no_spec_action_bar_pressed">#ff369dd2</color>
+    <color name="no_spec_cff35322f">#ff35322f</color>
+    <color name="no_spec_cff3c3936">#ff3c3936</color>
+    <color name="no_spec_cff615c57">#ff615c57</color>
+    <color name="no_spec_cffded6cb">#ffded6cb</color>
+    <color name="no_spec_cff2e2c29">#ff2e2c29</color>
+    <color name="no_spec_cffbfbebb">#ffbfbebb</color>
+    <color name="no_spec_cff454340">#ff454340</color>
+    <color name="no_spec_cffdedad5">#ffdedad5</color>
+    <color name="no_spec_cffcccccc">#ffcccccc</color>
+    <color name="no_spec_cff8d8a84">#ff8d8a84</color>
+    <color name="no_spec_cff625d58">#ff625d58</color>
+    <color name="no_spec_cff363431">#ff363431</color>
+    <color name="no_spec_c330079C1">#330079C1</color>
+    <color name="no_spec_c88000000">#88000000</color>
+    <color name="no_spec_c797979">#797979</color>
+    <color name="no_spec_cf0f0f0">#f0f0f0</color>
+    <color name="no_spec_c00DDFF">#00DDFF</color>
+    <color name="no_spec_cEEEEEE">#EEEEEE</color>
+    <color name="no_spec_cffffff">#ffffff</color>
+    <color name="no_spec_content_action_bar_confirmation_disabled">#33717074</color>
+    <color name="no_spec_merchant_details_gradient_top">#FF0066CD</color>
+    <color name="no_spec_merchant_details_gradient_bottom">#FF119CDE</color>
+
+
+</resources>

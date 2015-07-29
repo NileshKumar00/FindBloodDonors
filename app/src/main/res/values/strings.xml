@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FindBloodDonors</string>
+    <string name="disclaimer_message">We don\'t verify the user blood group and its authenticity. Please check at use.</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_plot_location">PlotLocationActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_preference">Preference</string>
+    <string name="str_btn_find">Find</string>
+    <string name="hnt_et_radius">Enter Radius in Kms</string>
+    <string name="title_activity_find_donors">FindDonors</string>
+</resources>
